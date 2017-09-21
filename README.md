@@ -1,11 +1,11 @@
 # Degustator
-Discord бот для сервера [VimeWorld.ru](https://discord.gg/vimeworld)
+Discord бот для сервера Ozirovskiy(https://discord.gg/DTNShdT)
 
 ## Умеет
 - `!joke` - Шутить шутки.
 - `!online` - Показывать модераторов онлайн на VimeWorld.ru.
 - `!coin` - Подкидывает WMR и говорит результат.
-- Синхронизировать аккаунты на VimeWorld.ru с ролями в Discord. Работает только на сервере [VimeWorld.ru](https://discord.gg/vimeworld)
+- Синхронизировать аккаунты на VimeWorld.ru с ролями в Discord. Работает только на сервере [VimeWorld.ru](https://discord.gg/DTNShdT)
 - Удалять сообщения с матами. Включается командой `!swearfilter`, которая доступна только владельцу сервера. Список плохих слов указывается в файле `badwords.txt`, по слову в строке.
 
 ## Установка
